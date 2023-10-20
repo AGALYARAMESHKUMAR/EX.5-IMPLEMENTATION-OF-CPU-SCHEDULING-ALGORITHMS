@@ -13,7 +13,6 @@ OUTPUT:
 
 RESULT: First-Come-First-Serve Scheduling is implemented successfully.
 
-
 AIM: To implement Shortest Job First (SJF) Preemptive Scheduling
 
 ALGORITHM:
